@@ -10,7 +10,3 @@ xarray==2024.7.0
 # STAC / data access
 pystac-client==0.8.5
 requests==2.32.3
-
-# Machine learning (optional, future plug-in)
-torch==2.4.0
-torchgeo==0.5.4
