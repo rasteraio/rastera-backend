@@ -1,0 +1,16 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.0
+
+# Geo / raster stack (future use)
+rasterio==1.4.3
+rioxarray==0.16.0
+xarray==2024.7.0
+
+# STAC / data access
+pystac-client==0.8.5
+requests==2.32.3
+
+# Machine learning (optional, future plug-in)
+torch==2.4.0
+torchgeo==0.5.4
